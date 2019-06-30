@@ -9,3 +9,4 @@ My Launch Plan to learn the Ruby programming language.
 3. [rbenv](rbenv/README.md): manage your ruby environment properly, avoid permission issues while installing dependencies
 4. [gems-demo](gems-demo/README.md): simple `hello_world.rb` that uses a dependency - a *Gem*. Learn about *bundler* i.e. how to keep your dependencies in an isolated environment and bundle them together with your own library.
 5. [rspec-demo](rspec-demo/README.md): learn how to write unit tests.
+6. [projects](projects/README.md): start creating some typical simple ruby projects. Follows the [learn by doing principle](https://en.wikipedia.org/wiki/Learning-by-doing).
