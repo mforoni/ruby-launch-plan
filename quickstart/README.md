@@ -19,16 +19,19 @@ Ruby is a language of careful balance. Its creator, Yukihiro “Matz” Matsumot
 [Ruby]: https://www.ruby-lang.org/en/
 [About Ruby]: https://www.ruby-lang.org/en/about/
 
+### Features
+
+Pass by value for immediate values
+:    Immediate values are not passed by reference but are passed by value: `nil`, `true`, `false`, `Fixnums`, `Symbols`, and some `Floats`.
+
 ## Steps
 
-My quickstart launch plan to master Ruby is to complete the following tutorials:
+My quickstart launch plan to master Ruby is to complete the following tutorials/articles/blogs:
 
 * [x] [Ruby in Twenty Minutes - www.ruby-lang.org](https://www.ruby-lang.org/en/documentation/quickstart/)
 * [ ] [Ruby Tutorial - rubylearning.com](http://rubylearning.com/satishtalim/tutorial.html)
-
-And read the following articles/blogs:
-
 * [x] [Ruby: pass by value or pass by reference?](http://rubyblog.pro/2017/09/pass-by-value-or-pass-by-reference)
+* [ ] Ruby collections
 
 ## Bonus
 
@@ -42,6 +45,4 @@ For **vs-code**. Install the following plugin:
 
 * [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby): This extension provides Ruby language and debugging support for VS Code.
 * [ruby-rubocop](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop): This extension provides interfaces to rubocop for vscode.
-
-
-https://marketplace.visualstudio.com/items?itemName=castwide.solargraph ?
+* https://marketplace.visualstudio.com/items?itemName=castwide.solargraph ?
