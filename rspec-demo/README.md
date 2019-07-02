@@ -32,8 +32,8 @@ The components are:
 
 ## Resources
 
-* [The Definitive RSpec Tutorial With Examples - www.rubyguides.com](https://www.rubyguides.com/2018/07/rspec-tutorial/)
-* [RSpec Hello World - www.codewithjason.com](https://www.codewithjason.com/rspec-hello-world/)
-* [Getting Started with RSpec — Part 1 - medium.com](https://medium.com/@mindovermiles262/getting-started-with-rspec-part-1-9418909f5e53)
-
-https://thoughtbot.com/blog/back-to-basics-writing-unit-tests-first
+* [x] [RSpec Hello World - www.codewithjason.com](https://www.codewithjason.com/rspec-hello-world/)
+* [x] [Getting Started with RSpec — Part 1 - medium.com](https://medium.com/@mindovermiles262/getting-started-with-rspec-part-1-9418909f5e53)
+* [ ] [The Definitive RSpec Tutorial With Examples - www.rubyguides.com](https://www.rubyguides.com/2018/07/rspec-tutorial/)
+* [ ] [How to Use RSpec Mocks (Step-By-Step Tutorial) -  wwww.rubyguides.com](https://www.rubyguides.com/2018/10/rspec-mocks/)
+* [ ] [ Back to Basics: Writing Unit Tests First - thoughtbot.com](https://thoughtbot.com/blog/back-to-basics-writing-unit-tests-first)
