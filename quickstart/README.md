@@ -43,6 +43,10 @@ My quickstart launch plan to master Ruby is to complete the following tutorials/
 
 For **vs-code**. Install the following plugin:
 
-* [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby): This extension provides Ruby language and debugging support for VS Code.
+* [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby): This extension provides Ruby language and debugging support for VS Code. (You can check the readme of the project on [github.com/rubyide/vscode-ruby](https://github.com/rubyide/vscode-ruby) but the content is the same).
 * [ruby-rubocop](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop): This extension provides interfaces to rubocop for vscode.
 * https://marketplace.visualstudio.com/items?itemName=castwide.solargraph ?
+
+How to set up debug in vscode:
+
+* [Debugging Ruby in VS Code - dev.to](https://dev.to/dnamsons/ruby-debugging-in-vscode-3bkj)
