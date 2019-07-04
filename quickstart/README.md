@@ -31,6 +31,7 @@ My quickstart launch plan to master Ruby is to complete the following tutorials/
 * [x] [Ruby in Twenty Minutes - www.ruby-lang.org](https://www.ruby-lang.org/en/documentation/quickstart/)
 * [ ] [Ruby Tutorial - rubylearning.com](http://rubylearning.com/satishtalim/tutorial.html)
 * [x] [Ruby: pass by value or pass by reference?](http://rubyblog.pro/2017/09/pass-by-value-or-pass-by-reference)
+* [ ] [](https://launchschool.com/books/ruby/read/introduction#howtoreadthisbook)
 * [ ] Ruby collections
 
 ## Bonus
