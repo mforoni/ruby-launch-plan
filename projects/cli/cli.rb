@@ -4,7 +4,7 @@ require 'etc'
 require 'English'
 
 class Command
-  attr_accessor :name, :desc, :block
+  attr_reader :name, :desc, :block
 
   def initialize(name, desc, block)
     @name = name
@@ -22,7 +22,7 @@ class Command
 end
 
 class Cli
-  attr_accessor :name, :commands
+  attr_reader :name, :commands
 
   def initialize(name, commands)
     @name = name
