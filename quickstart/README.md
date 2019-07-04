@@ -34,6 +34,9 @@ My quickstart launch plan to master Ruby is to complete the following tutorials/
 * [x] [Ruby: pass by value or pass by reference?](http://rubyblog.pro/2017/09/pass-by-value-or-pass-by-reference)
 * [ ] [Introduction to Programming with Ruby - launchschool.com](https://launchschool.com/books/ruby/read/introduction#howtoreadthisbook)
 * [ ] [Ruby Tutorial - rubylearning.com](http://rubylearning.com/satishtalim/tutorial.html)
+* [x] Proc & Lambdas:
+  * [x] [The Ultimate Guide to Blocks, Procs & Lambdas - www.rubyguides.com](https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/)
+  * [x] [Functional Programming in Ruby for people who don’t know what functional programming is - medium.com](https://medium.com/craft-academy/functional-programming-in-ruby-for-people-who-dont-know-what-functional-programming-is-f0c4ab7dc68c)
 * [ ] Ruby collections
 
 ## Bonus
