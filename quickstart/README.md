@@ -24,14 +24,16 @@ Ruby is a language of careful balance. Its creator, Yukihiro “Matz” Matsumot
 Pass by value for immediate values
 :    Immediate values are not passed by reference but are passed by value: `nil`, `true`, `false`, `Fixnums`, `Symbols`, and some `Floats`.
 
+Ruby methods **always** return the evaluated result of the last line of the expression unless an explicit return comes before it.
+
 ## Steps
 
 My quickstart launch plan to master Ruby is to complete the following tutorials/articles/blogs:
 
 * [x] [Ruby in Twenty Minutes - www.ruby-lang.org](https://www.ruby-lang.org/en/documentation/quickstart/)
-* [ ] [Ruby Tutorial - rubylearning.com](http://rubylearning.com/satishtalim/tutorial.html)
 * [x] [Ruby: pass by value or pass by reference?](http://rubyblog.pro/2017/09/pass-by-value-or-pass-by-reference)
-* [ ] [](https://launchschool.com/books/ruby/read/introduction#howtoreadthisbook)
+* [ ] [Introduction to Programming with Ruby - launchschool.com](https://launchschool.com/books/ruby/read/introduction#howtoreadthisbook)
+* [ ] [Ruby Tutorial - rubylearning.com](http://rubylearning.com/satishtalim/tutorial.html)
 * [ ] Ruby collections
 
 ## Bonus
