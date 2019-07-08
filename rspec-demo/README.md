@@ -46,3 +46,7 @@ In other words avoid mocking your own application’s classes!
 * [x] [The Definitive RSpec Tutorial With Examples - www.rubyguides.com](https://www.rubyguides.com/2018/07/rspec-tutorial/)
 * [x] [How to Use RSpec Mocks (Step-By-Step Tutorial) -  wwww.rubyguides.com](https://www.rubyguides.com/2018/10/rspec-mocks/)
 * [ ] [Back to Basics: Writing Unit Tests First - thoughtbot.com](https://thoughtbot.com/blog/back-to-basics-writing-unit-tests-first)
+* [x] [Testing gets in rspec (user input) - stackoverflow.com](https://stackoverflow.com/questions/53527160/testing-gets-in-rspec-user-input)
+* [x] [how can stub input using rspec 3 - stackoverflow.com](https://stackoverflow.com/questions/30112675/how-can-stub-input-using-rspec-3)
+* [x] [Testing STDIN in Ruby - stackoverflow.com](https://stackoverflow.com/questions/23349863/testing-stdin-in-ruby)
+* [x] [Testing STDOUT output in Rspec - stackoverflow.com](https://stackoverflow.com/questions/16507067/testing-stdout-output-in-rspec)
