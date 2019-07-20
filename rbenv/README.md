@@ -29,6 +29,16 @@ $ rbenv install -l
 $ rbenv install 2.0.0-p247
 ```
 
+## Using a specific Ruby versions
+
+Locally to your project
+
+```sh
+rbenv install 2.1.0
+
+rbenv local 2.1.0
+```
+
 ## Installing Ruby gems
 
 As explained [here](https://github.com/rbenv/rbenv#installing-ruby-gems)...
