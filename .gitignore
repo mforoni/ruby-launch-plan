@@ -60,3 +60,4 @@ build-iPhoneSimulator/
 
 # IDEs
 .vscode
+.idea

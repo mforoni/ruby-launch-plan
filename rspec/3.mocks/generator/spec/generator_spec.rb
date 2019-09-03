@@ -3,12 +3,12 @@
 require 'spec_helper'
 require File.expand_path('../generator', __dir__)
 
-describe NumberGenerator do
+describe Generator do
   it 'generates a random sequence of A' do
-    generator = NumberGenerator.new
+    generator = Generator.new
 
     allow(generator).to receive(:rand).and_return(5)
 
-    expect(generator.random).to eq('AAAAA')
+    expect(generator.randomA).to eq('AAAAA')
   end
 end

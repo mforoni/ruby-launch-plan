@@ -16,7 +16,7 @@ Ruby is **dynamically typed** and **garbage-collected**. It supports multiple pr
 2. [style](style/): learn about the most important conventions and style rules.
 3. [rbenv](rbenv/): manage your ruby environment properly, avoid permission issues while installing dependencies
 4. [gems-demo](gems-demo/): simple `hello_world.rb` that uses a dependency - a *Gem*. Learn about *bundler* i.e. how to keep your dependencies in an isolated environment and bundle them together with your own library.
-5. [rspec-demo](rspec-demo/): learn how to write unit tests.
+5. [rspec](rspec/): learn how to write unit tests.
 6. [projects](projects/): start creating some typical simple ruby projects. Follows the [learn by doing principle](https://en.wikipedia.org/wiki/Learning-by-doing).
 
 ## Books
